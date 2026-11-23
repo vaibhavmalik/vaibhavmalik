@@ -10,7 +10,3 @@ Senior Engineering Manager at Synaptic. AI-native engineering for application an
 ## Research
 
 Four papers on network ranking and contributor behaviour in online communities (COMSNETS 2016, ICCCI 2020, TCCI 2021). [Full list](https://vaibhavmalik.github.io/#research)
-
-## Contact
-
-vaibhavmalik.dev@gmail.com · [vaibhavmalik.github.io](https://vaibhavmalik.github.io) · [LinkedIn](https://www.linkedin.com/in/vaibhavmalik01/)
