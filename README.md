@@ -1,7 +1,3 @@
-# Vaibhav Malik
-
-Senior Engineering Manager at Synaptic. AI-native engineering for application and data systems.
-
 ## Open source
 
 - **[Open-Inspect](https://github.com/open-inspect/background-agents)**: maintainer of an open-source background coding-agent system (3.5k stars)
